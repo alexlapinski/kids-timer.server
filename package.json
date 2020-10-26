@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "fastify": "^1.13.4",
     "fastify-oas": "^1.2.0",
-    "openapi3-ts": "^1.1.0",
+    "openapi3-ts": "^2.0.0",
     "purify-ts": "^0.11.0",
     "swagger-schema-official": "^2.0.0-bab6bed",
     "winston": "^3.1.0"
